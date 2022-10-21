@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution]()
+- [Solution](https://www.frontendmentor.io/solutions/password-generator-app-gg4S2VfdYH)
 - [Live Site](https://randpass-fm.netlify.app/)
 
 ### Built with
